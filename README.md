@@ -1,1 +1,2 @@
 # git-tkh-practice
+Hello, my  name is Tyechia.  I am enjoying TKH, learning coding, and interacting with my Web Development cohort. I am originally from NJ.  I am a former collegiate track athlete who is in the atletic hall of fame at the University of Delaware. 
